@@ -1,4 +1,4 @@
-Package: recogito.sr
+Package: srrecogito
 Title: Interactive Annotation of Text and Images
 Version: 0.1.2
 Authors@R: c(
